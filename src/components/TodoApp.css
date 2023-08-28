@@ -1,5 +1,11 @@
-.App {
+.TodoApp {
   text-align: center;
+}
+
+#root {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .App-logo {
